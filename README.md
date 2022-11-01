@@ -23,6 +23,8 @@ AdaBoost Model is a model that corrects the weak classifiers in the SVC Model, a
 
 ![returns_adaboost_model](https://user-images.githubusercontent.com/109967916/199277576-f68da78b-b090-469a-8c9c-19304c8047d3.png)
 
+## Contributor
+Simon Abennet
 
 
 
