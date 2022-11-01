@@ -5,7 +5,7 @@ The first step of this analysis is to establish a baseline performance to genera
 
 
 ## Technology 
-Pandas, Numpy, HvPlot, MatPlotlib, SKlearn, StandardScale, DateOffset, Classification Reports
+Pandas, Numpy, HvPlot, MatPlotlib, SKlearn, StandardScaler, DateOffset, Classification Reports
 
 
 ## Evaluation Report: Results and Summary
